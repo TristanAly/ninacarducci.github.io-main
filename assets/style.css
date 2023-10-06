@@ -108,6 +108,7 @@ header {
 }
 .gallery .nav {
   justify-content: center;
+  user-select: none;
 }
 .nav-pills .nav-link.active,
 .nav-pills .show > .nav-link {
